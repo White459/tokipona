@@ -1,5 +1,8 @@
 # Toki Pona 비공식 사전
 
+# request 요청사항
+리플릿아 사이트 안에서 단어를 추가할수 있게 해줘.
+
 ## Overview
 This is an unofficial dictionary project for Toki Pona words created by Sonya. The project displays information about Toki Pona, a minimalist constructed language created by Canadian linguist Sonja Lang in 2001.
 
