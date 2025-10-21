@@ -1,0 +1,16 @@
+{
+  "name": "toki-pona-dictionary",
+  "version": "1.0.0",
+  "description": "Unofficial Toki Pona dictionary - 토키 포나 비공식 사전",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "toki-pona",
+    "dictionary",
+    "language"
+  ],
+  "author": "",
+  "license": "ISC"
+}
